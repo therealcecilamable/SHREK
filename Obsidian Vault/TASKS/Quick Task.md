@@ -1,0 +1,11 @@
+
+- [ ] Finish download ai model midnight
+- [ ] integrate it with figma
+- [ ] make rps
+- [ ] make bot
+- [ ] start binance earn
+- [ ] design logo for anime
+- [ ] design icon
+- [ ] set up accounts
+- [ ] set up the process
+- [ ] find ways to download videos
